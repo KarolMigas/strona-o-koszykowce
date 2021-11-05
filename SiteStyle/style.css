@@ -59,9 +59,9 @@ nav li span {
     padding-left: 5px;
 }
 
-h1 {
+
     
-}
+
 li a{
     padding: 5px;
     text-decoration: none;;
@@ -105,14 +105,7 @@ li a{
     margin: 90px;
     
 }
-/* do wyrzucenia 
- .image-shop {
-    margin-right: 20px;
-    margin-left: 20px;
-    overflow: hidden;
-    display: flex;
-    padding-left: 3551313617313871vw;
-}   */
+
 
 .add-cart {
     position: absolute;
@@ -137,16 +130,14 @@ li a{
 h1 {
     font-size: 150px;
     text-align: center;
-    text-shadow: 3px;
     color: rgba(61, 53, 53, 0.3);
-    text-shadow: 60px 60px rgb(94, 186, 216);
 }
 .box-shop-item {
-    width: 18rem; 
-    -webkit-box-shadow: -2px -1px 21px 7px rgba(66, 68, 90, 1);
-    -moz-box-shadow: -2px -1px 21px 7px rgba(66, 68, 90, 1);
-    box-shadow: -2px -1px 21px 7px rgba(66, 68, 90, 1);
-    margin-left: 50px;
+    -webkit-box-shadow: inset -1px -1px 0px 9px rgba(66, 68, 90, 1);
+    -moz-box-shadow: inset -1px -1px 0px 9px rgba(66, 68, 90, 1);
+    box-shadow: inset -1px -1px 0px 9px rgba(66, 68, 90, 1);
 }
+    
+    
 
 
